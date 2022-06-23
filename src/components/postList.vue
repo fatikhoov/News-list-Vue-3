@@ -46,7 +46,7 @@
         </div>
       </div>
     </div>
-    <hr />
+
     <transition-group class="listGroup" name="list" tag="div">
       <post-item
         class="post"
@@ -58,7 +58,7 @@
         :user="usering"
       ></post-item>
     </transition-group>
-
+    <hr />
     <transition-group class="listGroup" name="listTwo" tag="div">
       <my-post-item
         class="myPost"

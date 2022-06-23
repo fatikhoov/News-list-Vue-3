@@ -81,7 +81,7 @@ strong {
 .posts:hover {
   box-shadow: 0px 0px 4px rgba(153, 50, 204, 0.8);
   background-color: rgb(255, 255, 255);
-  border: 3px solid seagreen;
+  border: 2px solid seagreen;
 }
 .btn {
   border: 1px solid darkorchid;

@@ -74,7 +74,7 @@ strong {
   word-wrap: break-word;
   overflow: hidden;
   background-color: rgba(46, 139, 86, 0.2);
-  margin: 10px;
+  margin: 20px 0;
   border: 2px solid rgba(46, 139, 86, 0.8);
   box-shadow: 0px 0px 4px rgb(153 50 204 / 50%);
   border-radius: 5px;
@@ -86,10 +86,9 @@ strong {
   flex-direction: column;
 }
 .myPosts:hover {
-  margin: 9px;
   box-shadow: 0px 0px 4px rgba(153, 50, 204, 0.8);
   background-color: rgba(46, 139, 86, 0.2);
-  border: 3px solid seagreen;
+  border: 2px solid seagreen;
 }
 .btn {
   border: 1px solid darkorchid;
